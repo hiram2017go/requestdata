@@ -1,0 +1,12 @@
+D:\VS2012创建代码\HNPatent\HNPatent\bin\HNPatent.dll
+D:\VS2012创建代码\HNPatent\HNPatent\bin\HNPatent.pdb
+D:\VS2012创建代码\HNPatent\HNPatent\obj\Debug\HNPatent.dll
+D:\VS2012创建代码\HNPatent\HNPatent\obj\Debug\HNPatent.pdb
+D:\VS2012创建代码\HNPatent\HNPatent\obj\Debug\HNPatent.csprojResolveAssemblyReference.cache
+D:\VS2012创建代码\HNPatent\HNPatent\bin\weblib.dll
+D:\下载\HNPatent\HNPatent\bin\HNPatent.dll.config
+D:\下载\HNPatent\HNPatent\bin\HNPatent.dll
+D:\下载\HNPatent\HNPatent\bin\HNPatent.pdb
+D:\下载\HNPatent\HNPatent\obj\Debug\HNPatent.csprojResolveAssemblyReference.cache
+D:\下载\HNPatent\HNPatent\obj\Debug\HNPatent.dll
+D:\下载\HNPatent\HNPatent\obj\Debug\HNPatent.pdb

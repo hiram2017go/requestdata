@@ -1,0 +1,10 @@
+D:\下载\HNPatent\HNPatent\bin\HNPatent.dll.config
+D:\下载\HNPatent\HNPatent\bin\HNPatent.dll
+D:\下载\HNPatent\HNPatent\bin\HNPatent.pdb
+D:\下载\HNPatent\HNPatent\obj\Debug\HNPatent.dll
+D:\下载\HNPatent\HNPatent\obj\Debug\HNPatent.pdb
+D:\下载\HNPatent\Code\bin\HNPatent.dll.config
+D:\下载\HNPatent\Code\bin\HNPatent.dll
+D:\下载\HNPatent\Code\bin\HNPatent.pdb
+D:\下载\HNPatent\Code\obj\Debug\HNPatent.dll
+D:\下载\HNPatent\Code\obj\Debug\HNPatent.pdb
